@@ -1,3 +1,3 @@
-# ccb-hcomp-textbook
+# Attention!
 
-Test for gh-pages branch.
+With the release of the 1.0 gem, `Ed.` has moved to https://github.com/minicomp/ed/
